@@ -140,4 +140,4 @@ export function Select({ multiple, value, onChange, options }: SelectProps) {
 	);
 }
 
-// make it WCAG compliant: ARIA roles + contrast
+
